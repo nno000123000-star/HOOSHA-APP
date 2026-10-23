@@ -1,0 +1,33 @@
+{
+ "name": "هوشا (HOOSHA)",
+ "short_name": "هوشا",
+ "description": "دستیار مدیریت ساختمان، بیل‌ها، قراردادها و دفترچهٔ حساب",
+ "lang": "fa",
+ "dir": "rtl",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#F6F3EC",
+ "theme_color": "#1E4B3B",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
